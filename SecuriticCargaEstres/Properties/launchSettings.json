@@ -18,7 +18,7 @@
     "SecuriticCargaEstres": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://0.0.0.0:81;http://0.0.0.0:80",
+      "applicationUrl": "http://0.0.0.0:80",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
